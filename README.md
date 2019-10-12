@@ -1,4 +1,4 @@
-# Blogs_n_More
+# Blogs
 
 Dissecting Ardamax Keylogger: https://medium.com/@MalFuzzer/dissecting-ardamax-keylogger-f33f922d2576
 
