@@ -1,6 +1,6 @@
 # Blogs
 
-MSI TrueColor Unquoted Service Path Vulnerability: https://trioxsecurity.com/msi-truecolor-unquoted-service-path-vulnerability/
+MSI TrueColor Unquoted Service Path Vulnerability (CVE-2020-8842): https://trioxsecurity.com/msi-truecolor-unquoted-service-path-vulnerability/
 
 Corona-virus-Map (COVID-19) Malware Analysis: https://trioxsecurity.com/corona-virus-map-malware-analysis/
 
