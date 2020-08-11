@@ -1,4 +1,6 @@
 # Blogs
+Can Document Files Be Trusted?: https://trioxsecurity.com/can-document-files-be-trusted/
+
 Intel® Audio Driver Unquoted Service Path Vulnerability: https://trioxsecurity.com/intel-audio-driver-unquoted-service-path-vulnerability/
 
 MSI TrueColor Unquoted Service Path Vulnerability (CVE-2020-8842): https://trioxsecurity.com/msi-truecolor-unquoted-service-path-vulnerability/
